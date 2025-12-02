@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Oh… / 只野 楓 (𝗰𝗼𝘃𝗲𝗿) | yoei.",
+  "base_artist": "yoei.",
+  "createdAt": "2025-12-02T03:07:30.135633Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Randy Dandy Oh",
+      "artist": "Sean Dagher",
+      "has_synced": true,
+      "path": "select/01_Randy_Dandy_Oh_Sean_Dagher.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Uh Oh I Called Mum",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Uh_Oh_I_Called_Mum_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Uh Oh, I Called Mum",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Uh_Oh,_I_Called_Mum_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oh I'm a Good Old Rebel",
+      "artist": "Hoyt Axton",
+      "has_synced": true,
+      "path": "select/04_Oh_I'm_a_Good_Old_Rebel_Hoyt_Axton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Oh I'm A Good Old Rebel (Album Version)",
+      "artist": "Hoyt Axton",
+      "has_synced": true,
+      "path": "select/05_Oh_I'm_A_Good_Old_Rebel_(Album_Version)_Hoyt_Axton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Oh, Lonesome Me",
+      "artist": "Don Gibson",
+      "has_synced": true,
+      "path": "select/06_Oh,_Lonesome_Me_Don_Gibson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oh Lonesome Me",
+      "artist": "Don Gibson",
+      "has_synced": true,
+      "path": "select/07_Oh_Lonesome_Me_Don_Gibson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oh Me, Oh My Sweet Baby",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/08_Oh_Me,_Oh_My_Sweet_Baby_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oh Me, Oh My Sweet Baby (Album Version)",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/09_Oh_Me,_Oh_My_Sweet_Baby_(Album_Version)_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oh, Lonesome Me",
+      "artist": "The Kentucky Headhunters",
+      "has_synced": true,
+      "path": "select/10_Oh,_Lonesome_Me_The_Kentucky_Headhunters.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Oh, Lonesome Me (Album Version)",
+      "artist": "The Kentucky Headhunters",
+      "has_synced": false,
+      "path": "select/11_Oh,_Lonesome_Me_(Album_Version)_The_Kentucky_Headhunters.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Oh, Lonesome Me (Album Version)",
+      "artist": "The Kentucky Headhunters",
+      "has_synced": true,
+      "path": "select/12_Oh,_Lonesome_Me_(Album_Version)_The_Kentucky_Headhunters.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Oh, Susannah",
+      "artist": "James Taylor",
+      "has_synced": true,
+      "path": "select/13_Oh,_Susannah_James_Taylor.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Oh, Susannah (LP Version)",
+      "artist": "James Taylor",
+      "has_synced": true,
+      "path": "select/14_Oh,_Susannah_(LP_Version)_James_Taylor.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Oh Me (Live Version)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/15_Oh_Me_(Live_Version)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Oh Me",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/16_Oh_Me_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "OH YEAH!!!",
+      "artist": "盧廣仲",
+      "has_synced": true,
+      "path": "select/17_OH_YEAH!!!_盧廣仲.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Oh Yeah!!!",
+      "artist": "卢广仲",
+      "has_synced": true,
+      "path": "select/18_Oh_Yeah!!!_卢广仲.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Why Oh! Why",
+      "artist": "范晓萱",
+      "has_synced": false,
+      "path": "select/19_Why_Oh!_Why_范晓萱.txt"
+    }
+  ]
+}
